@@ -39,7 +39,7 @@ How to Run
 
 Testing
 
-The project should be tested in three scenarios:
+The project was tested in three scenarios:
 
 1. Create a baseline for the test file.
 2. Check the unchanged file and confirm the hashes match.
